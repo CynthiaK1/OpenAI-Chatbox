@@ -11,7 +11,7 @@ st.title("Streamlit Chatbot Interface")
 USER_AVATAR = "👤"
 BOT_AVATAR = "🤖"
 
-# Set the API key here
+# Set the API key here, i removed my key for privacy concerns
 api_key = "############"
 
 if api_key:
