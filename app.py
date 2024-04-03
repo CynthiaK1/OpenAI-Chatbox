@@ -12,7 +12,7 @@ USER_AVATAR = "👤"
 BOT_AVATAR = "🤖"
 
 # Set the API key here
-api_key = "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"
+api_key = "############"
 
 if api_key:
     # API key is set, initialize OpenAI client
